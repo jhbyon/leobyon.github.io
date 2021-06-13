@@ -1,0 +1,461 @@
+
+<!DOCTYPE HTML>
+<!--
+	Stellar by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+
+	Template a base de https://hectoramirez.github.io/
+	
+-->
+<html>
+	<head>
+		
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-164653073-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-164653073-1');
+</script>
+		
+		<title>Leonardo Byon</title>
+ 			<meta charset="utf-8" >
+ 			<meta name="description" cotent="Leonardo Byon's personal webpage"> 
+            <meta name="keywords" content="Leo Byon, Leonardo Byon" >
+            <meta name="author" content="Leonardo Byon">
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+		<script type="text/javascript" async
+  				src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML" async>
+		</script>
+		<script type="text/x-mathjax-config">
+				MathJax.Hub.Config({
+  				TeX: { equationNumbers: { autoNumber: "all" } }
+				});
+				</script>
+    </head>
+	<body>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header" class="alt">
+				
+					</header> 
+
+				<!-- Nav -->
+					<nav id="nav">
+						<ul>
+							<li><a href="#intro" class="active">Home</a></li>
+							<li><a href="#first">Bio</a></li>
+							<li><a href="#consultoria">Consultoría</a></li>
+							<li><a href="#contact">Contacto</a></li>
+
+						</ul>
+					</nav>
+
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- Introduction -->
+							<section id="intro" class="main special">
+								<div class="spotlight">
+									<div class="content">
+										<header class="major">
+
+											<header class="major2">
+											<h2 class="major2"> <!--&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+											    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+											    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+											    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+											    &nbsp&nbsp--> Leonardo Byon</h2> 
+											</header>
+										
+											<p > <strong>Científico de Datos</strong> <br> 
+										Consultor en Machine Learning, Sistemas de Recomendación y Minería de Texto	
+										<br> 									
+										 </p>
+										
+										</header>
+									</div>
+										<span class="image"><img src="images/personalpic.jpg" alt="" /></span>
+								</div> 
+							</section>
+
+						<!-- First Section -->
+							<section id="first" class="main special">
+								<header class="major">
+									<h2>Bio</h2>
+								</header>
+									
+									<div class="row">
+										<div class="">
+											<header class="major">
+												<h1>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</h1>
+												<p></p>
+								            </header>
+										</div>
+											<div class="8u 12u$(medium)">
+											<!--	<h3>Ordered</h3>  -->
+												<ol>
+													<p>
+													Tengo 3 años de experiencia trabajando en España y Corea del Sur como consultor creando modelos predictivos. <br>
+														Actualmente busco oportunidades de consultoría o colaboración en el ámbito de la ciencia de datos. <br>
+														Resido en Santa Cruz, Bolivia. <br>
+													</p>
+													
+												</ol>
+											</div>
+									</div>
+<br></br>	
+						
+								<!-- Table -->
+									<section>
+										<div class="table-wrapper">
+											<table>
+												<thead>
+													<tr>
+														<th style="color: #993300;">Educación:           </th>
+														<th></th>
+													</tr>
+												</thead>
+												<tbody>
+													<tr>
+														<td style="text-align:left;"><strong>2015 - 2016</strong></td>
+														<td style="text-align:left;"><strong>Masters en Data Science</strong>, <em> Barcelona Graduate School of Economics</em>, España. <br>
+														     </td>
+													</tr>
+													<tr>
+														<td style="text-align:left;"><strong>2010 - 2012</strong></td>
+														<td style="text-align:left;"><strong>MBA</strong>, 
+														<em>Korea University</em>, Corea del Sur.</td>
+													</tr>
+													<tr>
+														<td style="text-align:left;"><strong>2006</strong></td>
+														<td style="text-align:left;"><strong>Diplomado en Educación Superior</strong>,
+														 <em>Universidad Autónoma Gabriel René Moreno</em>, Bolivia.</td>
+													</tr>
+													<tr>
+														<td style="text-align:left;"><strong>1999 - 2003</strong></td>
+														<td style="text-align:left;"><strong>Lic. en Finanzas</strong>, <em>University of Virginia</em>, Estados Unidos.</td>
+													</tr>
+												</tbody>
+												<tfoot>
+													<!--<tr>
+														<td colspan="1"></td>
+														<td>100.00</td>-->
+													</tr>
+												</tfoot>
+											</table>
+										</div>
+																
+								<!-- end Table -->
+
+							</section> 
+		
+		
+		
+		
+		
+										<!-- Table -->
+									<section>
+										<div class="table-wrapper">
+											<table>
+												<thead>
+													<tr>
+														<th style="color: #993300;">Experiencia Reciente: </th>
+														
+														<th></th>
+													</tr>
+												</thead>
+												<tbody>
+													<tr>
+														<td style="text-align:left;"><strong>2017 - 2019</strong></td>
+														<td style="text-align:left;"><strong>Consultor Asesor en Data Science</strong>, <em> Advanced Marketing Access,</em> Corea del Sur. <br>
+														<i>Clientes: Grupo LG, Grupo CJ</i>
+														</td>
+													</tr>
+													<tr>
+														<td style="text-align:left;"><strong>2016</strong></td>
+														<td style="text-align:left;"><strong>Pasante y Junior Data Scientist (Consultor)</strong>, 
+														<em>Everis</em>, España. <br>
+														<i>Clientes: Banco Santander, Seguro Lagun Aro</i>
+														</td>
+													</tr>
+													<tr>
+														<td style="text-align:left;"><strong>2013 - 2015</strong></td>
+														<td style="text-align:left;"><strong>Jefe Regional de Negocios para Latinoamérica</strong>,
+														 <em>Green Cross Corporation,</em> Corea del Sur.</td>
+													</tr>												
+												</tbody>
+												<tfoot>
+													<!--<tr>
+														<td colspan="1"></td>
+														<td>100.00</td>-->
+													</tr>
+												</tfoot>
+											</table>
+										</div>
+																
+								<!-- end Table -->
+								
+	
+							</section> 
+
+								<!-- Table -->
+									<section>
+										<div class="table-wrapper">
+											<table>
+												<thead>
+													<tr>
+														<th style="color: #993300;">Proyectos:           </th>
+														<th></th>
+													</tr>
+												</thead>
+												<tbody>
+													<tr>
+														<td style="text-align:left;"><strong>Banca</strong></td>
+														<td style="text-align:left;">Modelo predictivo binario para reducir la cantidad de falsos positivos en alertas de blanqueo de capital.<br>
+														     </td>
+													</tr>
+													<tr>
+														<td style="text-align:left;"><strong>Seguros</strong></td>
+														<td style="text-align:left;">Aplicación de minería de texto para analizar los siniestros del ramo de auto.<br>
+														     </td>
+													</tr>
+													<tr>
+														<td style="text-align:left;"><strong>Telecomunicación</strong></td>
+														<td style="text-align:left;">Modelo predictivo binario para reducir la fuga de clientes B2B.<br>
+														     </td>
+													</tr>
+													<tr>
+														<td style="text-align:left;"><strong>Telecomunicación</strong></td>
+														<td style="text-align:left;">Modelo predictivo multi-clase para predecir la demanda de usuarios de IPTV.<br>
+														     </td>
+													</tr>
+													<tr>
+														<td style="text-align:left;"><strong>E-Commerce</strong></td>
+														<td style="text-align:left;">Modelo de recomendación a base de factorización de matrices para una empresa de cosmeticos.<br>
+														     </td>
+													</tr>
+													<tr>
+														<td style="text-align:left;"><strong>Logística</strong></td>
+														<td style="text-align:left;">Modelo predictivo multi-clase para clasificar 600 marcas de productos que aparecen en las notas de entregas.<br>
+														     </td>
+													</tr>
+													<tr>
+														<td style="text-align:left;"><strong>Telecomunicación</strong></td>
+														<td style="text-align:left;">Modelo predictivo para identificar potenciales clientes interesados en productos específicos.<br>
+														     </td>
+													</tr>
+													<tr>
+														<td style="text-align:left;"><strong>Telecomunicación</strong></td>
+														<td style="text-align:left;">Mejorar el modelo de recomendación existente para peliculas dentro del servicio de IPTV VOD.<br>
+														     </td>
+													</tr>													
+												</tbody>
+												<tfoot>
+													<!--<tr>
+														<td colspan="1"></td>
+														<td>100.00</td>-->
+													</tr>
+												</tfoot>
+											</table>
+										</div>
+																
+								<!-- end Table -->
+
+							</section> 						
+
+
+
+					<!-- Table -->
+									<section>
+										<div class="table-wrapper">
+											<table>
+												<thead>
+													<tr>
+														<th style="color: #993300;">Habilidades:           </th>
+														<th></th>
+													</tr>
+												</thead>
+												<tbody>
+													<tr>
+														<td style="text-align:left;"><strong>Lenguajes de Programación</strong></td>
+														<td style="text-align:left;">R, Python, SQL<br>
+														     </td>
+													</tr>
+													<tr>
+														<td style="text-align:left;"><strong>Software</strong></td>
+														<td style="text-align:left;">R Studio, Jupyter Notebook, Impala, Docker, Github<br>
+														     </td>
+													</tr>
+																										
+												</tbody>
+												<tfoot>
+													<!--<tr>
+														<td colspan="1"></td>
+														<td>100.00</td>-->
+													</tr>
+												</tfoot>
+											</table>
+										</div>
+																
+								<!-- end Table -->
+
+							</section> 	
+
+<hr />
+<br></br>
+
+						<!-- Second Section -->
+							<section id="consultoria" class="main special">
+								<header class="major">
+									<h2>Consultoría</h2>
+									<p></p>
+								</header>
+						
+					<div id="content-wrapper">			
+								
+				
+<div class="entry-content"> 
+	<h2>Extrae <span style="color: #993300;">insights</span> de tus datos.<br />
+		Explora nuevas <span style="color: #993300;"> oportunidades de negocio</span> con la ciencia de datos. <br /> 
+		Incrementa la <span style="color: #993300;">eficiencia de procesos existentes</span> usando algoritmos inteligentes.<br />
+	</h2>	
+	<p> Si deseas solicitar una cotización para alguno de los siguientes servicios o si tienes otros requerimientos, ponte en contacto. 
+	</p>
+	<br /><br />
+	
+	<p style="color: #993300;text-align:left;">1. Quiero entender mis datos </p>
+	<p style="text-align:left;">Independiente del formato de los datos (tabular o texto), puedo: </p>
+
+	<ul>
+		<li style="text-align:left;">Realizar <strong>analisis exploratorio</strong> para identificar estadísticas y patrones relevantes utilizando diferentes técnicas de análisis y visualización.</li>
+		<li style="text-align:left;">Identificar temáticas y <strong> categorizar documentos</strong> según estas temáticas automáticamente.</li>
+		<li style="text-align:left;">A base de las opiniones de tus consumidores o usuarios, identificar automáticamente <strong>a que tema se refiere</strong> y si la polaridad emocional de la misma es <strong>positiva o negativa </strong> (Ejemplo: La comida estuvo buena, pero el servicio muy lento. -> Detectar que la opinion sobre la comida es positiva, mientras que la del servicio es negativa) </li>
+	</ul>
+	
+	<p></p>
+						</div>
+	
+	<p style="color: #993300;text-align:left;">2. Quiero optimizar mis procesos</p>
+	<p style="text-align:left;">Pongo a disposición las mejores técnicas en machine learning para: </p>
+
+	<ul>
+		<li style="text-align:left;">Desarrollar <strong>modelos predictivos</strong>, particularmente si lo que se busca predecir es binario (fuga o no fuga de cliente, autorizar o no autorizar prestamo de dinero, fraude o no fraude, etc).</li>
+		<li style="text-align:left;">Entender las <strong>principales variables</strong> asociadas con los resultados de algún modelo. Es decir, la meta es <strong>interpretar los resultados</strong> para generar confianza en los mismos ya que el mecanismo interno de decisión de muchos algoritmos carecen de transparencia.</li>
+		<li style="text-align:left;">Desarrollar <strong>sistemas de recomendación</strong>, como los que se aplican en Amazon y Netflix.</li>
+		<li style="text-align:left;">Detectar <strong>abnormalidades</strong> en los datos.</li>
+
+	</ul>
+<p></p></div><br />
+
+
+<hr />						
+<br></br>
+
+
+
+						  <section id="contact" class="main special">
+								<header class="major">
+								</header>
+									<div class="row">
+										<div class="">
+											<header class="major">
+												<h1>Contacto &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</h1>
+												<p></p>
+								            </header>
+										</div>
+											<div class="7u 12u$(medium)">
+												
+												<ol>
+													<p class="address">
+														
+														
+														
+						<section>
+							<dl class="alt">
+								<dt style="text-align:left;">Ubicación:</dt>
+								<dd style="text-align:left;">Santa Cruz, Bolivia</dd>
+								<dt style="text-align:left;">Celular:</dt>
+								<dd style="text-align:left;">+591 61399280</dd>
+								<dt style="text-align:left;">Email:</dt>
+								<dd style="text-align:left;"><a href="#">leonardo.byon[arroba]gmail[punto]com</a></dd>
+							</dl>
+							<ul class="icons">
+								<li><a href="https://twitter.com/leo_byon" class="icon brands fa-twitter alt"><span class="label">Twitter</span></a></li>
+								<li><a href="https://www.facebook.com/leo.byon" class="icon brands fa-facebook-f alt"><span class="label">Facebook</span></a></li>
+								<!-- <li><a href="#" class="icon brands fa-instagram alt"><span class="label">Instagram</span></a></li> -->
+								<li><a href="https://github.com/leobyon" class="icon brands fa-github alt"><span class="label">GitHub</span></a></li>
+							</ul>
+						</section>
+													
+													
+													
+													
+													
+	
+
+					</div> <!-- main -->
+
+
+				<!-- Footer -->
+					<footer id="footer">
+				<!--		<section>
+							<h2>Aliquam sed mauris</h2>
+							<p>Sed lorem ipsum dolor sit amet et nullam consequat feugiat consequat magna adipiscing tempus etiam dolore veroeros. eget dapibus mauris. Cras aliquet, nisl ut viverra sollicitudin, ligula erat egestas velit, vitae tincidunt odio.</p>
+							<ul class="actions">
+								<li><a href="generic.html" class="button">Learn More</a></li>
+							</ul>
+						</section>
+						<section>
+							<h2>Etiam feugiat</h2>
+							<dl class="alt">
+								<dt>Address</dt>
+								<dd>1234 Somewhere Road &bull; Nashville, TN 00000 &bull; USA</dd>
+								<dt>Phone</dt>
+								<dd>(000) 000-0000 x 0000</dd>
+								<dt>Email</dt>
+								<dd><a href="#">information@untitled.tld</a></dd>
+							</dl>
+							<ul class="icons">
+								<li><a href="#" class="icon fa-twitter alt"><span class="label">Twitter</span></a></li>
+								<li><a href="#" class="icon fa-facebook alt"><span class="label">Facebook</span></a></li>
+								<li><a href="#" class="icon fa-instagram alt"><span class="label">Instagram</span></a></li>
+								<li><a href="#" class="icon fa-github alt"><span class="label">GitHub</span></a></li>
+								<li><a href="#" class="icon fa-dribbble alt"><span class="label">Dribbble</span></a></li>
+							</ul>
+						</section> -->
+						<p class="copyright"> <br> <strong>Última actualización:</strong> Abril 2020. <br> 
+						<!--Desktop background <a class="" href="images/Background/Timelapse.jpg" target="_blank">
+						Image</a> by <a class="" href="https://www.flickr.com/photos/lschlagenhauf/" target="_blank">
+						 Lukas Schlagenhauf </a>.-->
+						 <!-- hitwebcounter Code START -->
+<!-- hitwebcounter Code START
+<img src="https://hitwebcounter.com/counter/counter.php?page=7278120&style=0007&nbdigits=3&type=ip&initCount=0" title="User Stats" Alt="PHP Hits Count"   border="0" >
+</a>                                                                     
+   -->                  
+						 </p>
+					</footer>
+
+			</div> <!-- wrapper -->
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
